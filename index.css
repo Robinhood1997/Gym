@@ -5,7 +5,12 @@
 }
 /*----Navigation----*/
 
-
+.navbar-brand img
+{
+	height : 100px;
+	width : 200px;
+	padding-left :30px;
+}
 .navbar-nav li
 {
 	padding : 0 10px;
@@ -48,9 +53,6 @@
 
 
 /*------------Team Member------------*/
-
-
-
 
 
 
